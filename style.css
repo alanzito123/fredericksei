@@ -1,0 +1,56 @@
+h1
+{
+  font-family: sans-serif;
+  color: white;
+}
+p
+{
+  font-family: sans-serif;
+  color: white;
+}
+
+body
+{
+  background-image: url(
+    https://preview.redd.it/4bsntvjxbpd81.jpg?auto=webp&s=6a6afaba9541a4db88054a28d4b77f2ad5c6d6d8
+  );
+
+  background-size: 100%;
+}
+
+ul
+{
+  color: white;
+  font-family: sans-serif;
+}
+
+ol
+{
+  color: white;
+  font-family: sans-serif;
+}
+
+form
+{
+  color: white;
+ 
+}
+
+h4
+{
+  color: white;
+  font-family: sans-serif;
+}
+
+h2
+{
+  color: white;
+  font-family: sans-serif;
+}
+
+table
+{
+  color: white;
+  background-color: black;
+}
+
